@@ -11,4 +11,4 @@
 7.Перепишіть код  так, щоб інформація про клієнтів банку та їх рахунки читалась з файлу **test.dat** .
 8. Додайте ще одну команду - **report**, яка має виводити звіт за клієнтами такого ж виду, як у роботі номер 8 (див. CustomerReport).
 9. Запустіть проект, впевніться, що все працює як очікувалось. Продемонстрируйте результат викладачеві.
-<img src=https://github.com/ppc-ntu-khpi/tui-lab2-34-34-golovnia-yana/blob/master/image.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/tui-lab2-34-34-golovnia-yana/blob/master/image.png" width="100%"/>
